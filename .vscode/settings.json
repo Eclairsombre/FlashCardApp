@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+    "/home/alex/javafx-sdk-21.0.2/lib*.jar"
+],
+"java.compile.nullAnalysis.mode": "automatic",
+"java.configuration.updateBuildConfiguration": "interactive"
+        
+
+}
